@@ -1,0 +1,5 @@
+{
+    "require": {
+        "pagedidier/md-yaml-app": "^0.0.3"
+    }
+}
