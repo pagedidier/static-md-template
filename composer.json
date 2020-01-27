@@ -1,5 +1,16 @@
 {
-    "require": {
+    "name": "pagedidier/static-md-template",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "authors": [
+        {
+            "name": "Page Didier",
+            "email": "page.didier@gmail.com"
+        }
+    ],
+     "require": {
         "pagedidier/md-yaml-app": "^0.0.3"
     }
 }
